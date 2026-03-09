@@ -101,13 +101,11 @@ Esses indicadores permitem avaliar tanto **volume de vendas quanto rentabilidade
 ---
 
 # 📂 Estrutura do Repositório
-📁 images
-├ pagina-vendas.png
-└ pagina-lucro.png
-
-📄 relatorio-powerbi.pbix
-📄 README.md
-
+├── images
+│ ├── pagina-vendas.png
+│ └── pagina-lucro.png
+├── relatorio-powerbi.pbix
+└── README.md
 
 ---
 

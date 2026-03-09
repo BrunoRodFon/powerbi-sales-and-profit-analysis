@@ -107,7 +107,7 @@ Esses indicadores permitem avaliar tanto **volume de vendas quanto rentabilidade
 ├── images
 │   ├── pagina-vendas.png
 │   └── pagina-lucro.png
-├── relatorio-powerbi.pbix
+├── dashboard_financials_desafioDIO.pbix
 └── README.md
 ```
 
